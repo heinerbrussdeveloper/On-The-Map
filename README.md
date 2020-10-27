@@ -16,9 +16,13 @@ Open the Folder with the app and Run it in the Simulator or on your Phone
 
 ## How it works
 
-Initially at first, you can take a Picture using your iPhone camera and then you can use that picture and give it a top and bottom line text. After that you can save that new Meme or send it to a Friend you like to share it with. Alternatively you can also use a picture from your foto library on your phone and edit it.
+At first you have to login using your Udacity email adress and your password. If you havent registered already, press the sign-up button and register on the website. After that, you can login and proceed to entering your location and your website to add a pin to the map and share your location with the other students. You can also take a look at all the other shared information of other students and visit their websites. If you are done, just click the logout button. 
 
 ![](Map1.gif)
+![](Map2.gif)
+![](Map3.gif)
+![](Map4.gif)
+![](Map5.gif)
 
 ## Built With
 
